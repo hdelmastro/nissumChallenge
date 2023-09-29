@@ -1,4 +1,4 @@
-# Wenance Challenge
+# Nissum Challenge
 
 _API para el registro de usuarios_
 
